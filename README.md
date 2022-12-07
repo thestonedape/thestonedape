@@ -1,9 +1,9 @@
 <h1 align="center">Yo👋, It's Nishant</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thestonedape&label=Profile%20views&color=0e75b6&style=flat" alt="thestonedape" /> </p>
 
-- 🔭 I’m currently working on **Generative AI models**
+- 🔭 I’m currently working on **Generative AI models and NLP**
 
-- 🌱 I’m currently learning **Quantum computing and NLP.**
+- 🌱 Also worked on **QML**
 
 - 📝 I regularly write articles on [nishant69.medium.com](nishant69.medium.com)
 
