@@ -5,6 +5,8 @@
 
 - 🌱 Also worked on **QML**
 
+- 📫 Due to capitalism **I also happen to be a React Native developer**
+
 - 📝 I regularly write articles on [nishant69.medium.com](nishant69.medium.com)
 
 - 📫 How to reach me **thelemonmusk@gmail.com**
