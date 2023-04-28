@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [nishant69.medium.com](nishant69.medium.com)
 
-- 📫 How to reach me **thelemonmusk@gmail.com**
+- 📫 How to reach me **inboxnishant@protonmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
