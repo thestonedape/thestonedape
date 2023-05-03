@@ -1,15 +1,13 @@
 <h1 align="center">Yo👋, It's Nishant</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thestonedape&label=Profile%20views&color=0e75b6&style=flat" alt="thestonedape" /> </p>
 
-- 🔭 I’m currently learning **Transformers**
-
-- 🌱 Also worked on **QML**
+- 🌱 Party Animal
 
 - 📫 Due to capitalism **I also happen to be a React Native developer**
 
-- 📝 I regularly write articles on [nishant69.medium.com](nishant69.medium.com)
+- 📝 [nishant69.medium.com](nishant69.medium.com)
 
-- 📫 How to reach me **inboxnishant@protonmail.com**
+- 📫 Reach me **inboxnishant@protonmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
