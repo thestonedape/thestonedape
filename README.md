@@ -5,7 +5,7 @@
 
 - 📫 Due to capitalism **I also happen to be a React Native developer**
 
-- 📝 [nishant69.medium.com](nishant69.medium.com)
+- 📝 **nishant69.medium.com**
 
 - 📫 Reach me **inboxnishant@protonmail.com**
 
