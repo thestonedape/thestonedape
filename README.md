@@ -3,7 +3,7 @@
 
 - 📝 [Blogs](nishant69.medium.com)
 
-- 📫 Reach me **inboxnishant@protonmail.com**
+- 📫 Reach me **inboxofnishant@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
