@@ -1,8 +1,6 @@
 <h1 align="center">Yo👋, It's Nishant</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thestonedape&label=Profile%20views&color=0e75b6&style=flat" alt="thestonedape" /> </p>
 
-- 📝 [Blogs](nishant69.medium.com)
-
 - 📫 Reach me **inboxofnishant@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
