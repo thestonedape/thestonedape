@@ -20,7 +20,7 @@
 <p align="left">
 <a href="mailto:contact.nishantjha@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white" alt="email"/></a>
 <a href="https://nishantkjhere.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=netlify&logoColor=white" alt="portfolio"/></a>
-<a href="https://twitter.com/niishantkj"><img src="https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=twitter&logoColor=white" alt="twitter"/></a>
+<a href="https://twitter.com/nlshantk"><img src="https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=twitter&logoColor=white" alt="twitter"/></a>
 <a href="https://medium.com/@nishant69"><img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white" alt="medium"/></a>
 </p>
 
