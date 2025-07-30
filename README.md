@@ -13,7 +13,7 @@
 ```bash
 📧 contact.nishantjha@gmail.com
 🌐 nishantkjhere.vercel.app
-🐦 @niishantkj
+🐦 @nlshantk
 📝 @nishant69
 ```
 
