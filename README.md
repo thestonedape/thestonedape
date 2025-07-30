@@ -1,4 +1,4 @@
-<h1 style="text-align: center;">
+<h1 align= "center">
   <a href="https://nishantkjhere.vercel.app/" style="text-decoration: none; color: inherit;">
     Yo👋, It's Nishant
   </a>
