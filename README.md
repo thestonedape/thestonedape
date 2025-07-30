@@ -42,8 +42,6 @@ const skills = {
 
 ### `:~# do something great`
 
----
-
 <div align="center">
   
 <img src="https://images.unsplash.com/photo-1505925456693-124134d66749?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjM4fHxkbyUyMHNvbWV0aGluZyUyMGdyZWF0fGVufDB8MHwwfHx8MA%3D%3D" width="100%" height="300" style="object-fit: cover; object-position: center;" alt="Matrix style banner"/>
