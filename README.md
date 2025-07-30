@@ -3,7 +3,7 @@
 ### `:~# whoami`
 **Nishant Jha** | Digital Architect
 
-[![Profile Views](https://komarev.com/ghpvc/?username=thestonedape&label=Profile%20views&color=ffffff&style=flat-square&labelColor=000000)](https://github.com/thestonedape)
+[![Profile Views](https://komarev.com/ghpvc/?username=thestonedape&label=Profile%20views&color=000000&style=flat-square&labelColor=000000)](https://github.com/thestonedape)
 
 </div>
 
