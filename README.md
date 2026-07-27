@@ -18,7 +18,7 @@
 ```
 
 <p align="left">
-<a href="mailto:inboxofnishant@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white" alt="email"/></a>
+<a href="mailto:contact.nishantjha@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white" alt="email"/></a>
 <a href="https://nishantkjhere.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=netlify&logoColor=white" alt="portfolio"/></a>
 <a href="https://www.linkedin.com/in/nishanthere"><img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin"/></a>
 <a href="https://twitter.com/nlshantk"><img src="https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=twitter&logoColor=white" alt="twitter"/></a>
