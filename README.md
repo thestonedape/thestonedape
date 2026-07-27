@@ -29,7 +29,7 @@
 ### `:~# ./skills --list`
 ```javascript
 const skills = {
-  languages:   ['Python', 'SQL', 'Java'],
+  languages:   ['Python', 'SQL', 'Go'],
   ml_ai:       ['PyTorch', 'Transformers', 'RAG', 'LLMs', 'Model Evaluation'],
   backend:     ['FastAPI', 'Spring Boot', 'REST APIs', 'Apache Kafka', 'JWT Auth'],
   databases:   ['PostgreSQL', 'MySQL', 'Supabase'],
