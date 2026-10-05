@@ -7,7 +7,7 @@
 **Software & ML Engineer**  
 `backend systems` · `applied AI` · `ML infrastructure` · `things that actually ship`
 
-[![Profile Views](https://komarev.com/ghpvc/?username=thestonedape&label=PROFILE+VIEWS&color=00ff9c&style=flat-square)](https://github.com/thestonedape)
+[![Profile Views](https://komarev.com/ghpvc/?username=thestonedape&style=flat-square)](https://github.com/thestonedape)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=00ff9c)](https://www.linkedin.com/in/nishanthere)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=vercel&logoColor=00ff9c)](https://nishantkjhere.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=00ff9c)](mailto:inboxofnishant@gmail.com)
