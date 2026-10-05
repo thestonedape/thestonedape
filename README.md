@@ -69,8 +69,8 @@ const stack = {
 ### `:~# cat achievements.log`
 
 ```text
-Amazon ML Summer School — Selected
-HackWithInfy — Cleared all rounds
+Amazon ML Summer School 2026 — Selected
+HackWithInfy — Cleared
 GATE Data Science & AI — AIR 2472 / 95.67 percentile
 Regional Mathematics Olympiad — State Rank 10
 Google Solution Challenge — Global Top 50
@@ -82,12 +82,6 @@ Google DevFest Ideathon — Winner
 ### `:~# status`
 
 ```text
-targeting:
-  Software Engineer
-  Backend Engineer
-  ML Engineer
-  Applied AI Engineer
-
 interested_in:
   backend systems
   ML infrastructure
