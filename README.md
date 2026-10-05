@@ -7,7 +7,6 @@
 **Software & ML Engineer**  
 `backend systems` · `applied AI` · `ML infrastructure`
 
-[![Profile Views](https://komarev.com/ghpvc/?username=thestonedape&style=flat-square)](https://github.com/thestonedape)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=00ff9c)](https://www.linkedin.com/in/nishanthere)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=vercel&logoColor=00ff9c)](https://nishantkjhere.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=00ff9c)](mailto:inboxofnishant@gmail.com)
@@ -20,13 +19,14 @@
 
 ```text
 M.Tech Data Analytics @ NIT Jalandhar
-I build software around intelligence.
 
-APIs that survive failure.
-ML systems that can actually be served.
-Retrieval pipelines that do more than demo.
-Experiments that are measured instead of hand-waved.
+I build software around intelligence:
+backend systems, ML infrastructure,
+retrieval and model serving.
 ```
+
+**APIs that survive failure.**  
+**ML systems that can actually be served.**
 
 Researcher + engineer working across **backend systems, model serving, applied ML, RAG, computer vision and reliability engineering**.
 
