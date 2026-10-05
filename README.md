@@ -1,83 +1,133 @@
+<div align="center">
+
+### `:~# whoami`
+
 # Nishant Kumar Jha
 
-**Software & ML Engineer** · Backend Systems · Applied AI · ML Infrastructure
+**Software & ML Engineer**  
+`backend systems` · `applied AI` · `ML infrastructure` · `things that actually ship`
 
-M.Tech Data Analytics @ **NIT Jalandhar** (2025–2027)  
-Building production-minded software around machine learning: reliable APIs, asynchronous processing, retrieval systems, model serving, and evaluation pipelines.
+[![Profile Views](https://komarev.com/ghpvc/?username=thestonedape&label=profile%20views&color=000000&style=flat-square&labelColor=000000)](https://github.com/thestonedape)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishanthere)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://nishantkjhere.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:inboxofnishant@gmail.com)
 
-[LinkedIn](https://www.linkedin.com/in/nishanthere) · [Portfolio](https://nishantkjhere.vercel.app/) · [Email](mailto:inboxofnishant@gmail.com)
+</div>
 
 ---
 
-## What I work on
-
-- **Backend & distributed systems:** FastAPI, PostgreSQL, Redis, REST APIs, background workers, idempotency, retries, transactional outbox patterns, caching, rate limiting and observability
-- **Applied ML / AI:** PyTorch, TensorFlow/Keras, Transformers, embeddings, RAG, computer vision and model evaluation
-- **ML serving:** asynchronous inference APIs, queue backpressure, model lifecycle management, validation, latency/memory benchmarking and failure recovery
-- **Research:** EEG representation learning, cross-session evaluation, experimental controls and retrieval metrics
-
-## Tech
+### `:~# cat about.txt`
 
 ```text
-Languages        Python · SQL · JavaScript · TypeScript
-Backend          FastAPI · REST APIs · PostgreSQL · pgvector · Redis · Alembic
-ML / AI          PyTorch · TensorFlow/Keras · scikit-learn · Transformers · RAG · Embeddings
-Infra            Docker · GitHub Actions · Linux · Git · AWS (EC2, S3, SageMaker)
-Engineering      DSA · OOP · Operating Systems · DBMS · System Design fundamentals
+M.Tech Data Analytics @ NIT Jalandhar
+I build software around intelligence.
+
+APIs that survive failure.
+ML systems that can actually be served.
+Retrieval pipelines that do more than demo.
+Experiments that are measured instead of hand-waved.
 ```
 
-## Selected work
-
-### [EduSense AI](https://github.com/thestonedape/EduSense_AI_backend)
-Lecture-processing and Q&A backend built around **FastAPI, PostgreSQL/pgvector and Redis**.
-
-- Durable job ledger with a **transactional outbox**
-- Background workers with leases, retries, checkpoints and recovery
-- Idempotent submissions, role-based access and private object storage
-- RAG pipeline with embeddings and content-aware caching
-- CI-gated Docker builds and integration testing
-
-### [Deepfake Video Detection](https://github.com/thestonedape/deepfake-video-detection)
-Full-stack deepfake detection system using **PyTorch, EfficientNet-B4, FFT features, FastAPI, PostgreSQL and Redis**.
-
-- Asynchronous job API with polling and durable results
-- Bounded queueing, backpressure, timeouts and supervised inference subprocesses
-- Content-hash prediction caching and large-upload validation
-- Measured warm inference p95 improvement from **1.83 s → 1.44 s**
-
-### [Sehat Pro](https://github.com/thestonedape/SehatProbbackend)
-Production-oriented skin-image inference API using **TensorFlow/Keras + FastAPI**.
-
-- Ensemble serving with readiness/fallback behavior
-- Input validation, rate limiting, bounded admission and request metrics
-- Measured warm inference p95 improvement from **1.034 s → 0.897 s**
-
-### [EEG-to-Text Journal Lab](https://github.com/thestonedape/eeg2text-journal-lab)
-Research code and reproducibility artifacts for my M.Tech work on EEG representation learning and evaluation.
-
-- Cross-session EEG experiments and held-out evaluation
-- Baselines and matched controls for acquisition-order confounds
-- Reproducible experiment ledger and manuscript workflow
-
-### [Job Application Agent](https://github.com/thestonedape/job-application-agent)
-Agentic workflow for automating job applications across heterogeneous application systems while maintaining a reusable personal data vault and human-in-the-loop handling for missing information.
+Researcher + engineer working across **backend systems, model serving, applied ML, RAG, computer vision and reliability engineering**.
 
 ---
 
-## Research & achievements
+### `:~# ./skills --current`
 
-- **M.Tech Researcher & Teaching Assistant, NIT Jalandhar**
-- Selected for **Amazon ML Summer School 2026**
-- Cleared all rounds of **HackWithInfy**
-- **GATE Data Science & AI:** AIR 2472 · 95.67 percentile
-- **Regional Mathematics Olympiad:** State Rank 10
-- **Google Solution Challenge 2022:** Global Top 50
-- **Google DevFest Ideathon 2022:** Winner
+```javascript
+const stack = {
+  languages: ['Python', 'SQL', 'JavaScript', 'TypeScript'],
+
+  backend: [
+    'FastAPI', 'REST APIs', 'PostgreSQL',
+    'pgvector', 'Redis', 'Alembic'
+  ],
+
+  ml_ai: [
+    'PyTorch', 'TensorFlow/Keras', 'scikit-learn',
+    'Transformers', 'RAG', 'Embeddings', 'Model Evaluation'
+  ],
+
+  systems: [
+    'Async Jobs', 'Caching', 'Idempotency', 'Retries',
+    'Backpressure', 'Transactional Outbox', 'Observability'
+  ],
+
+  infra: [
+    'Docker', 'GitHub Actions', 'Linux', 'Git',
+    'AWS EC2', 'AWS S3', 'SageMaker'
+  ],
+
+  fundamentals: [
+    'DSA', 'OOP', 'Operating Systems', 'DBMS', 'System Design'
+  ]
+};
+```
 
 ---
 
-## Currently targeting
+### `:~# ls ./selected_work`
 
-**Software Engineer · Backend Engineer · ML Engineer · Applied AI Engineer**
+#### [EduSense AI](https://github.com/thestonedape/EduSense_AI_backend)
+> lecture intelligence backend // FastAPI + PostgreSQL/pgvector + Redis
 
-I am especially interested in roles where strong software engineering meets machine learning: reliable backend systems, ML infrastructure, retrieval systems, model serving and applied AI products.
+Durable job processing, transactional outbox, worker leases, retries, checkpoints, idempotent submissions, private storage, role-based access, RAG and content-aware caching.
+
+#### [Deepfake Video Detection](https://github.com/thestonedape/deepfake-video-detection)
+> asynchronous ML inference system // PyTorch + FastAPI + PostgreSQL + Redis
+
+Bounded queueing, durable results, supervised inference subprocesses, backpressure, content-hash caching and production-minded failure handling.  
+**Warm inference p95: 1.83s → 1.44s.**
+
+#### [Sehat Pro](https://github.com/thestonedape/SehatProbbackend)
+> reliability-focused ML serving // TensorFlow/Keras + FastAPI
+
+Validated inference API with ensemble fallback, bounded admission, rate limiting, readiness checks and metrics.  
+**Warm inference p95: 1.034s → 0.897s.**
+
+#### [ESPWizard](https://github.com/thestonedape/EspWizard)
+> mobile + IoT control system // React Native + embedded connectivity
+
+A configurable control layer for ESP8266/ESP32 devices with custom controls and local-device communication.
+
+---
+
+### `:~# cat achievements.log`
+
+```text
+[2026] Amazon ML Summer School — Selected
+[2026] HackWithInfy — Cleared all rounds
+[2025] GATE Data Science & AI — AIR 2472 / 95.67 percentile
+[....] Regional Mathematics Olympiad — State Rank 10
+[2022] Google Solution Challenge — Global Top 50
+[2022] Google DevFest Ideathon — Winner
+```
+
+---
+
+### `:~# status`
+
+```text
+targeting:
+  Software Engineer
+  Backend Engineer
+  ML Engineer
+  Applied AI Engineer
+
+interested_in:
+  backend systems
+  ML infrastructure
+  retrieval systems
+  model serving
+  applied AI products
+```
+
+---
+
+### `:~# do_something_great`
+
+<div align="center">
+
+<img src="https://images.unsplash.com/photo-1505925456693-124134d66749?w=1200&auto=format&fit=crop&q=80" width="100%" height="280" style="object-fit: cover; object-position: center;" alt="Do something great"/>
+
+</div>
