@@ -1,49 +1,83 @@
-<div align="center">
-  
-### `:~# whoami`
-**Nishant Jha** | Digital Architect
+# Nishant Kumar Jha
 
-[![Profile Views](https://komarev.com/ghpvc/?username=thestonedape&label=Profile%20views&color=000000&style=flat-square&labelColor=000000)](https://github.com/thestonedape)
+**Software & ML Engineer** · Backend Systems · Applied AI · ML Infrastructure
 
-</div>
+M.Tech Data Analytics @ **NIT Jalandhar** (2025–2027)  
+Building production-minded software around machine learning: reliable APIs, asynchronous processing, retrieval systems, model serving, and evaluation pipelines.
+
+[LinkedIn](https://www.linkedin.com/in/nishanthere) · [Portfolio](https://nishantkjhere.vercel.app/) · [Email](mailto:inboxofnishant@gmail.com)
 
 ---
 
-### `:~# cat contact.txt`
-```bash
-📧 contact.nishantjha@gmail.com
-🌐 nishantkjhere.vercel.app
-🐦 @nlshantk
-📝 @nishant69
+## What I work on
+
+- **Backend & distributed systems:** FastAPI, PostgreSQL, Redis, REST APIs, background workers, idempotency, retries, transactional outbox patterns, caching, rate limiting and observability
+- **Applied ML / AI:** PyTorch, TensorFlow/Keras, Transformers, embeddings, RAG, computer vision and model evaluation
+- **ML serving:** asynchronous inference APIs, queue backpressure, model lifecycle management, validation, latency/memory benchmarking and failure recovery
+- **Research:** EEG representation learning, cross-session evaluation, experimental controls and retrieval metrics
+
+## Tech
+
+```text
+Languages        Python · SQL · JavaScript · TypeScript
+Backend          FastAPI · REST APIs · PostgreSQL · pgvector · Redis · Alembic
+ML / AI          PyTorch · TensorFlow/Keras · scikit-learn · Transformers · RAG · Embeddings
+Infra            Docker · GitHub Actions · Linux · Git · AWS (EC2, S3, SageMaker)
+Engineering      DSA · OOP · Operating Systems · DBMS · System Design fundamentals
 ```
 
-<p align="left">
-<a href="mailto:contact.nishantjha@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white" alt="email"/></a>
-<a href="https://nishantkjhere.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=netlify&logoColor=white" alt="portfolio"/></a>
-<a href="https://www.linkedin.com/in/nishanthere"><img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin"/></a>
-<a href="https://twitter.com/nlshantk"><img src="https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=twitter&logoColor=white" alt="twitter"/></a>
-</p>
+## Selected work
+
+### [EduSense AI](https://github.com/thestonedape/EduSense_AI_backend)
+Lecture-processing and Q&A backend built around **FastAPI, PostgreSQL/pgvector and Redis**.
+
+- Durable job ledger with a **transactional outbox**
+- Background workers with leases, retries, checkpoints and recovery
+- Idempotent submissions, role-based access and private object storage
+- RAG pipeline with embeddings and content-aware caching
+- CI-gated Docker builds and integration testing
+
+### [Deepfake Video Detection](https://github.com/thestonedape/deepfake-video-detection)
+Full-stack deepfake detection system using **PyTorch, EfficientNet-B4, FFT features, FastAPI, PostgreSQL and Redis**.
+
+- Asynchronous job API with polling and durable results
+- Bounded queueing, backpressure, timeouts and supervised inference subprocesses
+- Content-hash prediction caching and large-upload validation
+- Measured warm inference p95 improvement from **1.83 s → 1.44 s**
+
+### [Sehat Pro](https://github.com/thestonedape/SehatProbbackend)
+Production-oriented skin-image inference API using **TensorFlow/Keras + FastAPI**.
+
+- Ensemble serving with readiness/fallback behavior
+- Input validation, rate limiting, bounded admission and request metrics
+- Measured warm inference p95 improvement from **1.034 s → 0.897 s**
+
+### [EEG-to-Text Journal Lab](https://github.com/thestonedape/eeg2text-journal-lab)
+Research code and reproducibility artifacts for my M.Tech work on EEG representation learning and evaluation.
+
+- Cross-session EEG experiments and held-out evaluation
+- Baselines and matched controls for acquisition-order confounds
+- Reproducible experiment ledger and manuscript workflow
+
+### [Job Application Agent](https://github.com/thestonedape/job-application-agent)
+Agentic workflow for automating job applications across heterogeneous application systems while maintaining a reusable personal data vault and human-in-the-loop handling for missing information.
 
 ---
 
-### `:~# ./skills --list`
-```javascript
-const skills = {
-  languages:   ['Python', 'SQL', 'Go'],
-  ml_ai:       ['PyTorch', 'Transformers', 'RAG', 'LLMs', 'Model Evaluation'],
-  backend:     ['FastAPI', 'Spring Boot', 'REST APIs', 'Apache Kafka', 'JWT Auth'],
-  databases:   ['PostgreSQL', 'MySQL', 'Supabase'],
-  infra:       ['Docker', 'Docker Compose', 'Linux', 'Git'],
-  frontend:    ['React.js', 'React Native']
-};
-```
+## Research & achievements
+
+- **M.Tech Researcher & Teaching Assistant, NIT Jalandhar**
+- Selected for **Amazon ML Summer School 2026**
+- Cleared all rounds of **HackWithInfy**
+- **GATE Data Science & AI:** AIR 2472 · 95.67 percentile
+- **Regional Mathematics Olympiad:** State Rank 10
+- **Google Solution Challenge 2022:** Global Top 50
+- **Google DevFest Ideathon 2022:** Winner
 
 ---
 
-### `:~# do something great`
+## Currently targeting
 
-<div align="center">
-  
-<img src="https://images.unsplash.com/photo-1505925456693-124134d66749?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjM4fHxkbyUyMHNvbWV0aGluZyUyMGdyZWF0fGVufDB8MHwwfHx8MA%3D%3D" width="100%" height="300" style="object-fit: cover; object-position: center;" alt="Matrix style banner"/>
+**Software Engineer · Backend Engineer · ML Engineer · Applied AI Engineer**
 
-</div>
+I am especially interested in roles where strong software engineering meets machine learning: reliable backend systems, ML infrastructure, retrieval systems, model serving and applied AI products.
