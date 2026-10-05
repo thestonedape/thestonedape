@@ -95,12 +95,12 @@ A configurable control layer for ESP8266/ESP32 devices with custom controls and 
 ### `:~# cat achievements.log`
 
 ```text
-[2026] Amazon ML Summer School — Selected
-[2026] HackWithInfy — Cleared all rounds
-[2025] GATE Data Science & AI — AIR 2472 / 95.67 percentile
-[....] Regional Mathematics Olympiad — State Rank 10
-[2022] Google Solution Challenge — Global Top 50
-[2022] Google DevFest Ideathon — Winner
+Amazon ML Summer School — Selected
+HackWithInfy — Cleared all rounds
+GATE Data Science & AI — AIR 2472 / 95.67 percentile
+Regional Mathematics Olympiad — State Rank 10
+Google Solution Challenge — Global Top 50
+Google DevFest Ideathon — Winner
 ```
 
 ---
